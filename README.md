@@ -54,7 +54,9 @@ Key Features
 
 Live Demo
 
-Visit Supply Tracker
+## Live Demo
+
+[Visit Supply Tracker](https://supply-tracker--renakariri2024.replit.app/)
 
 Technologies
 

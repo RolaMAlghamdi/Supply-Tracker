@@ -2,23 +2,35 @@ Supply Tracker – Construction Materials Availability & Price Comparison Platfo
 
 Project Overview
 
-Supply Tracker is a web-based platform designed to simplify the process of searching for construction materials. The platform brings material availability, supplier information, and price comparison together in one place.
+Supply Tracker is a web-based platform designed to simplify the process of finding construction materials and resources.
 
-Instead of searching through multiple suppliers individually, users can search for the material they need, check its availability, compare prices, and identify the most suitable supplier. If a material is unavailable, users can also track it and receive a notification when it becomes available.
+Civil engineers and other construction professionals may spend significant time searching for the materials they need, comparing different suppliers, and looking for the lowest available price. They may also need to repeatedly check whether an unavailable product has become available.
 
-Project Objective
-
-The main objective of Supply Tracker is to reduce the time and effort required to find construction materials and make purchasing decisions.
-
-By providing material and supplier information in one platform, the project aims to make the procurement process more efficient and help reduce potential delays in construction projects.
+Supply Tracker aims to simplify this process by bringing construction materials, availability information, supplier details, and price comparisons together in one platform.
 
 Problem Statement
 
-Finding construction materials can be time-consuming, especially when engineers, contractors, or procurement officers need to search through multiple suppliers, compare prices, or repeatedly check whether an unavailable product has become available.
+Construction professionals often face difficulties when searching for the materials and resources they need. Finding a supplier with the lowest price can require comparing multiple options, while unavailable products may require users to repeatedly check for updates.
 
-This process can lead to inefficient purchasing decisions and may contribute to delays in construction projects.
+This process can take time and effort and may affect the efficiency of the purchasing process.
 
-Supply Tracker addresses this problem by providing a centralized platform where users can search, compare, and track construction materials more efficiently.
+Proposed Solution
+
+Supply Tracker provides a centralized platform where users can search for construction materials and quickly access the information they need.
+
+The platform shows the availability status of each product:
+
+* Available
+* Unavailable
+* Coming Soon
+
+When a user opens a product, the platform provides information about where it is available and helps identify the supplier offering the lowest price.
+
+If a product is unavailable, users can request a notification and receive an alert when the product becomes available, instead of repeatedly checking for it manually.
+
+Project Objective
+
+The main objective of Supply Tracker is to make the process of finding and purchasing construction materials faster and more convenient by reducing the time required to search for products, compare suppliers, and monitor unavailable materials.
 
 Target Users
 
@@ -31,23 +43,33 @@ The platform is primarily designed for:
 
 Key Features
 
-* Material search
-* Material availability tracking
-* Supplier comparison
-* Price comparison
-* Identification of the lowest available price
-* Availability notifications
-* Supplier and product information
+* Search for construction materials and resources
+* View product availability status
+* Identify products that are available, unavailable, or coming soon
+* View supplier information
+* Compare supplier prices
+* Identify the lowest available price
+* Request notifications for unavailable products
+* Receive an alert when an unavailable product becomes available
 
-Technologies and Tools
+Live Demo
+
+Visit Supply Tracker
+
+Technologies
 
 The project was developed using:
 
 * HTML
 * CSS
 * JavaScript
+
+Development and Version Control Tools
+
 * Git
 * GitHub
+
+Git and GitHub were used to manage the source code and track project changes throughout the development process.
 
 How to Run the Project
 
@@ -56,20 +78,19 @@ How to Run the Project
 3. Open the main HTML file in a web browser.
 4. Explore the available features of the platform.
 
-If additional dependencies are required, the necessary installation and setup steps will be provided here.
-
 How to Use the Platform
 
 1. Search for the required construction material.
-2. Check its availability.
-3. View the available suppliers.
-4. Compare prices between suppliers.
-5. Select the most suitable supplier.
-6. If the material is unavailable, activate the tracking or notification feature.
+2. View its availability status.
+3. Open the product to view supplier information and prices.
+4. Compare the available prices.
+5. Identify the supplier offering the lowest price.
+6. If the product is unavailable, request a notification.
+7. Receive an alert when the product becomes available.
 
 Project Screenshots
 
-Screenshots of the main interfaces and important features will be added here to demonstrate the functionality and design of the platform.
+Screenshots of the main interfaces and key features will be added here to demonstrate the functionality and design of the platform.
 
 Team Members
 
@@ -89,26 +110,22 @@ This project was developed as part of the [Training Program Name].
 
 Project Documentation
 
-The repository contains the source code, project files, and supporting materials required to understand and run the Supply Tracker platform.
+The repository contains the source code and supporting project files required to understand and run the Supply Tracker platform.
 
-The main components of the project, including material search, availability tracking, supplier comparison, price comparison, and notification features, are documented to provide a clear overview of the system.
-
-Project Updates
-
-Git and GitHub were used to manage the project, track changes, and maintain updated versions throughout the development process.
+The main features and components of the platform are documented to provide a clear overview of the project’s functionality.
 
 Future Improvements
 
-Future versions of Supply Tracker could include:
+Future improvements could include:
 
-* Real-time supplier data integration
-* More construction material categories
-* Advanced search and filtering
-* Location-based supplier recommendations
-* Improved notification functionality
-* Mobile application support
-* Analytics and purchasing reports
+* Expanding the number of construction materials and suppliers
+* Integrating real-time supplier data
+* Adding advanced search and filtering options
+* Adding location-based supplier recommendations
+* Enhancing notification functionality
+* Developing a mobile application
+* Adding analytics and purchasing reports
 
 Project Purpose
 
-This project was developed for educational and training purposes to demonstrate the application of web development and problem-solving concepts to a real-world construction procurement challenge.
+This project was developed as part of a training project to demonstrate the application of web development and problem-solving concepts to a real-world construction procurement challenge.

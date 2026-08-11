@@ -29,29 +29,15 @@ The platform is primarily designed for:
 * Contractors
 * Procurement Officers
 
-These users need a fast and convenient way to find construction materials, check availability, compare supplier prices, and monitor unavailable products.
-
 Key Features
 
-Material Search
-
-Users can search for construction materials based on their requirements.
-
-Availability Tracking
-
-Users can check whether a material is currently available or unavailable.
-
-Price Comparison
-
-The platform allows users to compare prices from different suppliers and identify the lowest available price.
-
-Supplier Comparison
-
-Users can view and compare different suppliers to make a more informed purchasing decision.
-
-Availability Notifications
-
-If a required material is unavailable, users can track the product and receive a notification when it becomes available.
+* Material search
+* Material availability tracking
+* Supplier comparison
+* Price comparison
+* Identification of the lowest available price
+* Availability notifications
+* Supplier and product information
 
 Technologies and Tools
 
@@ -63,40 +49,39 @@ The project was developed using:
 * Git
 * GitHub
 
-Additional technologies and tools can be added based on the final implementation.
-
 How to Run the Project
 
 1. Clone or download the repository.
 2. Open the project folder.
-3. Run the project using the required development environment.
-4. Open the main page in a web browser.
+3. Open the main HTML file in a web browser.
+4. Explore the available features of the platform.
 
-If the project requires specific dependencies or commands, they should be added here.
+If additional dependencies are required, the necessary installation and setup steps will be provided here.
 
 How to Use the Platform
 
-1. Open the Supply Tracker platform.
-2. Search for the required construction material.
-3. Check the material’s availability.
-4. View the available suppliers.
-5. Compare prices between suppliers.
-6. Select the most suitable option.
-7. If the material is unavailable, activate the tracking or notification feature.
+1. Search for the required construction material.
+2. Check its availability.
+3. View the available suppliers.
+4. Compare prices between suppliers.
+5. Select the most suitable supplier.
+6. If the material is unavailable, activate the tracking or notification feature.
 
 Project Screenshots
 
-Screenshots of the main interfaces and important features will be included here to demonstrate the functionality and design of the platform.
+Screenshots of the main interfaces and important features will be added here to demonstrate the functionality and design of the platform.
 
 Team Members
 
-* @na7nnnada9
-* @janaalbakri3
-* @Dana-th
-* @saraalkhuriji-tech
-* @afnansaljarad
-* @fatmahbr
-* @rahafAlobaid
+* Rola Alghamdi
+* Afnan Aljarad
+* Rina Kriri
+* Sara Alkhuriji
+* Nada Alghamdi
+* Rahaf Alobaid
+* Jana Albakri
+* Fatmah Rabiah
+* Dana Alhumaidi
 
 Training Program
 
@@ -106,7 +91,7 @@ Project Documentation
 
 The repository contains the source code, project files, and supporting materials required to understand and run the Supply Tracker platform.
 
-The main components of the project, including the search, availability tracking, supplier comparison, price comparison, and notification features, are documented to provide a clear overview of the system.
+The main components of the project, including material search, availability tracking, supplier comparison, price comparison, and notification features, are documented to provide a clear overview of the system.
 
 Project Updates
 

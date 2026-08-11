@@ -4,7 +4,7 @@ Project Overview
 
 Supply Tracker is a web-based platform designed to simplify the process of finding construction materials and resources.
 
-Civil engineers and other construction professionals may spend significant time searching for the materials they need, comparing different suppliers, and looking for the lowest available price. They may also need to repeatedly check whether an unavailable product has become available.
+Civil engineers and other construction professionals may spend significant time searching for the materials they need, comparing different suppliers, and finding the lowest available price. They may also need to repeatedly check whether an unavailable product has become available.
 
 Supply Tracker aims to simplify this process by bringing construction materials, availability information, supplier details, and price comparisons together in one platform.
 
@@ -106,7 +106,7 @@ Team Members
 
 Training Program
 
-This project was developed as part of the [Training Program Name].
+This project was developed as part of the “Productivity Enhancement and Process Improvement” training program, organized by the Saudi Data and AI Authority (SDAIA).
 
 Project Documentation
 
